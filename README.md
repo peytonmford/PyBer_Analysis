@@ -24,3 +24,5 @@ The total fares by city type can be shown above. The use of a line chart can sho
 ![Fig1](Analysis/Fig1.png)
 
 The average fare per ride and driver are as expected, with Urban city type creating the most fares and total rides. 
+## Summary
+In summary, I believe we need to concentrate for future business decisions on Urban city types. The majority of riders, drivers, and revenue come from Urban cities, so focusing our efforts on these cities can increase profits. We can also focus to try and grow the Rural and Suburban city types; more advertisement and discount codes can help increase rides in these city types.
