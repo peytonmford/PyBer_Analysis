@@ -5,4 +5,4 @@ The purpose of this analysis is to show the different city types of PyBer Riding
 ## Results
 The results of these analyses is to show last years data and how the city types compare in three categories: total drivers, total rides, total fares, the average fare per ride and driver, and the total fares per city type . In all of the results, Urban city type has the overall largest percentages in all the analyses. 
 ###### Total Rides
-![Fig6](Resources/Fig6.png)
+![Fig6](Analysis/Fig6.png)
